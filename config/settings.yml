@@ -1,0 +1,4 @@
+plugins:
+  has_reply_enabled:
+    default: true
+    client: true
